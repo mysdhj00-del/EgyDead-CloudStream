@@ -131,7 +131,7 @@ class EgyDeadProvider : MainAPI() {
         val catName = selectFirst("span.cat_name")?.text()
         val year = Regex("""(19|20)\d{2}""").find(title)?.value?.toIntOrNull()
 
-        return when (detectType(catName, href) {
+        return when (detectType(catName, href)) {
             TvType.Anime -> newAnimeSearchResponse(title, href, TvType.Anime) {
                 this.posterUrl = poster
                 this.year = year
