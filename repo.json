@@ -1,0 +1,6 @@
+{
+    "name": "EgyDead Repo",
+    "description": "EgyDead CloudStream extension - Arabic movies, series and anime",
+    "manifestVersion": 1,
+    "pluginLists": ["https://raw.githubusercontent.com/mysdhj00-del/EgyDead-CloudStream/builds/plugins.json"]
+}
