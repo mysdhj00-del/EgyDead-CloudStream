@@ -1,0 +1,23 @@
+[
+    {
+        "fileHash": "sha256-f63b058dde01f1aa3146e56c8be859cca583137ad78f1c669bf8fb6a709d6ebc",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mysdhj00-del/EgyDead-CloudStream",
+        "fileSize": 33777,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Saher"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "EgyDead",
+        "description": "EgyDead - Arabic dubbed/subtitled movies, series and anime",
+        "url": "https://raw.githubusercontent.com/mysdhj00-del/EgyDead-CloudStream/builds/EgyDead.cs3",
+        "name": "EgyDead"
+    }
+]
