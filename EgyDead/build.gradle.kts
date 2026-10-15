@@ -1,5 +1,5 @@
 // EgyDead CloudStream plugin module.
-version = 5
+version = 6
 
 cloudstream {
     description = "EgyDead - Arabic dubbed/subtitled movies, series and anime"
